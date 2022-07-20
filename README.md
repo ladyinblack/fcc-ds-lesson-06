@@ -7,6 +7,7 @@
 ## HINTS
 - Using the `splice()` function, you must remove the first 2 elements from array `arr` and replace them with `DarkSalmon` and `BlanchedAlmond`.
 - Remember the `splice()` function can take up to three parameters.
+
 **Example:**
 ```js
 arr.splice(0, 1, "Two");
