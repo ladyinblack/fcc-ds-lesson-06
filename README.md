@@ -12,7 +12,7 @@
 arr.splice(0, 1, "Two");
 /* The first two parameters are the same as they were in the previous challenge. `0` will start the `splice()` function off at index `0`.
    The second parameter `1` will remove only 1 variable from the array.
-   The final variable `"Two"` will replace the variable in `arr[0]`.
+   The final variable "Two" will replace the variable in `arr[0]`.
    Note: The final parameter can take more than 1 argument.
 */
 ```
